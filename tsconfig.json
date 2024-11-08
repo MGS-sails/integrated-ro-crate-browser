@@ -1,0 +1,14 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ],
+  "compilerOptions": {
+    "types": ["/Users/mahfouz/Code/sandbox/ro-crate-zip-explorer/examples/vue/ro-crate-zip-vue/custom-elements.d.ts"]
+  }
+}
